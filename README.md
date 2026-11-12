@@ -79,9 +79,7 @@ Dejo cada proyecto listo para que otra persona lo ejecute: **pruebas automatizad
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
 | [Plataforma SST y PESV](https://github.com/CamiloGarcia079/PROYECTO---EVALUACION-Camilo-Garc-a-) | Base de datos multiempresa para seguridad en el trabajo y seguridad vial, con vistas, funciones y triggers. | PostgreSQL |
-| [Gestor de tareas Scrum](https://github.com/CamiloGarcia079/Gestor-de-tareas-con-base-de-datos-Actividad) | Aplicación de escritorio para equipos, tareas y asignaciones, con acceso a datos por DAO. | Java Swing, JDBC, MySQL |
 | [Tribuna Global](https://github.com/CamiloGarcia079/Tribuna-Global-Camilo-Garcia-A) | Chatbot que clasifica por sentimiento opiniones sobre futbolistas, sin guardar datos inventados si algo falla. | Python, LangChain, Gemini |
-| [Campus Pizza](https://github.com/CamiloGarcia079/Evaluacion-Camilo-Garcia-3H-Campus-Pizza) | Modelo relacional de una pizzería con consultas de análisis de ventas. | MySQL |
 | [Portafolio](https://github.com/CamiloGarcia079/portafolio) | Sitio personal de una sola página. | HTML, CSS, JavaScript |
 
 <br/>
