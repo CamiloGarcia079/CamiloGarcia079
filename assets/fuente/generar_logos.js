@@ -49,8 +49,7 @@ function lenguajes() {
 <clipPath id="c"><rect width="${W}" height="${H}" rx="16"/></clipPath></defs>`;
   L.forEach(([k, nombre, sub, usado], i) => {
     const x = i * (tw + gap), col = k === 'db' ? TEAL : color(k);
-    s += `<g transform="translate(${x} 0)">
-<rect x=".5" y=".5" width="${tw - 1}" height="${H - 1}" rx="16" fill="${BG0}" stroke="${col}" stroke-opacity=".35"/>
+    const tile = `<rect x=".5" y=".5" width="${tw - 1}" height="${H - 1}" rx="16" fill="${BG0}" stroke="${col}" stroke-opacity=".35"/>
 <rect x="0" y="0" width="${tw}" height="4" rx="2" fill="${col}"/>
 <radialGradient id="g${i}" cx=".5" cy=".3" r=".6"><stop offset="0" stop-color="${col}" stop-opacity=".18"/><stop offset="1" stop-color="${col}" stop-opacity="0"/></radialGradient>
 <rect width="${tw}" height="${H}" rx="16" fill="url(#g${i})"/>
@@ -62,8 +61,12 @@ ${icon(k, tw / 2 - 22, 60, 44, col)}
 <text x="${tw / 2}" y="160" class="sans" font-size="22" font-weight="700" fill="${INK}" text-anchor="middle">${nombre}</text>
 <text x="${tw / 2}" y="186" class="mono" font-size="11.5" fill="${MUTED}" text-anchor="middle">${esc(sub)}</text>
 <rect x="${tw / 2 - 52}" y="204" width="104" height="24" rx="12" fill="${col}" fill-opacity=".12"/>
-<text x="${tw / 2}" y="220" class="mono" font-size="11" fill="${col}" text-anchor="middle">${usado}</text>
-</g>`;
+<text x="${tw / 2}" y="220" class="mono" font-size="11" fill="${col}" text-anchor="middle">${usado}</text>`;
+    s += `<g transform="translate(${x} 0)">${tile}</g>`;
+    // Versión suelta de cada lenguaje, para enlazarla a su proyecto en el README
+    const suelto = tile.replace(`>${usado}</text>`, '>ver código &#8599;</text>');
+    fs.writeFileSync(path.join(OUT, `lang-${nombre.toLowerCase()}.svg`),
+      `<svg xmlns="http://www.w3.org/2000/svg" width="${tw}" height="${H}" viewBox="0 0 ${tw} ${H}" role="img" aria-labelledby="t"><title id="t">${nombre}: ${esc(sub)}</title>${CSS}${suelto}</svg>`);
   });
   s += `</svg>`;
   fs.writeFileSync(path.join(OUT, 'lenguajes.svg'), s);

@@ -33,11 +33,17 @@ Dejo cada proyecto listo para que otra persona lo ejecute: **pruebas automatizad
 
 <img src="assets/sec-lenguajes.svg" width="100%" alt="03. Lenguajes y tecnologías" />
 
-<img src="assets/lenguajes.svg" width="100%" alt="Lenguajes que domino: Java (Spring Boot, Swing, JDBC), Python (LangChain, Streamlit, pytest), TypeScript (Node.js, Express, React), JavaScript (web, n8n, Web Workers) y SQL (MySQL, PostgreSQL)." />
+<p align="center">
+  <a href="https://github.com/CamiloGarcia079/Evaluacion-Springboot-Herramientas---Camilo-Garcia-Almeida/tree/main/src/main/java"><img src="assets/lang-java.svg" width="19%" alt="Java: Renta de Herramientas" /></a>
+  <a href="https://github.com/CamiloGarcia079/Hojas-de-vida-Chatbot---IA---Camilo-/tree/main/app/intermedio/cv_analyzer"><img src="assets/lang-python.svg" width="19%" alt="Python: Analizador de CVs" /></a>
+  <a href="https://github.com/santiagoosorio0708e-wq/Vital-Route/tree/master/api"><img src="assets/lang-typescript.svg" width="19%" alt="TypeScript: VitalRoute" /></a>
+  <a href="https://github.com/CamiloGarcia079/CAMILO-BANCO-EVALUACION/tree/main/BANCO-ACME--main%20Camilo%20Garcia/js"><img src="assets/lang-javascript.svg" width="19%" alt="JavaScript: Banco ACME" /></a>
+  <a href="https://github.com/CamiloGarcia079/PROYECTO---EVALUACION-Camilo-Garc-a-/tree/main/sql"><img src="assets/lang-sql.svg" width="19%" alt="SQL: Plataforma SST y PESV" /></a>
+</p>
 
 <img src="assets/tecnologias.svg" width="100%" alt="Frameworks: Spring Boot, Spring Security, JWT, Express, React, Streamlit. Automatización e IA: n8n, Telegram Bot API, LangChain, Gemini, Pydantic. Bases de datos: MySQL, PostgreSQL, Flyway, Google Sheets. Web: HTML5, CSS3, Node.js, Socket.IO. Calidad y entrega: JUnit 5, pytest, Docker, Postman, Swagger, Maven, Git, GitHub." />
 
-<sub>Los lenguajes son las instrucciones que le doy a la computadora; las demás son herramientas para construir más rápido, guardar datos y comprobar que todo funciona. Cada una está usada en al menos un proyecto de abajo.</sub>
+<sub>Haz clic en un lenguaje para ver el proyecto donde lo apliqué. Los lenguajes son las instrucciones que le doy a la computadora; las demás son herramientas para construir más rápido, guardar datos y comprobar que todo funciona. Cada una está usada en al menos un proyecto de abajo.</sub>
 
 <br/><br/>
 
