@@ -18,7 +18,7 @@
 </style>
 <rect x=".5" y=".5" width="1199" height="75" rx="12" fill="#0a0e16" stroke="#ffffff" stroke-opacity=".08"/>
 <rect x="0" y="18" width="4" height="40" rx="2" fill="#e8b04b"/>
-<text x="24" y="46" class="mono rise" font-size="15" fill="#e8b04b">02</text>
+<text x="24" y="46" class="mono rise" font-size="15" fill="#e8b04b">03</text>
 <text x="60" y="47" class="sans rise" style="animation-delay:.1s" font-size="26" font-weight="700" fill="#e8edf4">En qué me enfoco</text>
 <text x="1176" y="46" class="mono rise" style="animation-delay:.4s" font-size="13" fill="#8b97a8" text-anchor="end">automatización</text>
 <line x1="314.0" y1="40" x2="1038" y2="40" stroke="url(#g)" stroke-width="1.5" class="ln"/>

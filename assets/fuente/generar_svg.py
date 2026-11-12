@@ -314,13 +314,12 @@ def footer():
 
 banner()
 section("sec-perfil.svg", "01", "Sobre mí", "perfil")
-section("sec-enfoque.svg", "02", "En qué me enfoco", "automatización")
-section("sec-proyectos.svg", "03", "Proyectos destacados", "código real")
-section("sec-stack.svg", "04", "Tecnologías", "usadas en proyectos")
+section("sec-lenguajes.svg", "02", "Lenguajes y tecnologías", "lo que domino")
+section("sec-enfoque.svg", "03", "En qué me enfoco", "automatización")
+section("sec-proyectos.svg", "04", "Proyectos destacados", "código real")
 section("sec-experiencia.svg", "05", "Formación y experiencia", "trayectoria")
 section("sec-contacto.svg", "06", "Contacto", "hablemos")
 enfoque()
-stack()
 footer()
 
 card("card-vitalroute.svg", "AGENTE IA · TIEMPO REAL", "VitalRoute",
@@ -351,6 +350,10 @@ card("card-banco.svg", "JAVASCRIPT · WEB", "Banco ACME",
      "módulos ES · clave dinámica · certificado imprimible", ["JavaScript", "HTML", "CSS", "Web Workers"], TEAL,
      "En equipo con Andrés Felipe Guerra.")
 
+card("card-f1.svg", "JAVA · CONCURRENCIA", "Fórmula 1 en Java",
+     "Simulador de carreras: cada piloto corre en su propio hilo, con clima dinámico, combustible y pit stops.",
+     "un hilo por piloto · CyclicBarrier por vuelta · SQLite", ["Java 21", "Swing", "Threads", "SQLite"], GOLD,
+     "En pareja con Daniel Osorio.")
 button("btn-linkedin.svg", "LinkedIn", "perfil profesional", TEAL)
 button("btn-correo.svg", "Correo", "escríbeme", GOLD)
 button("btn-portafolio.svg", "Portafolio", "sitio web", TEAL)

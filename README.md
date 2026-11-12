@@ -23,7 +23,17 @@ Intento dejar cada proyecto listo para que otra persona lo ejecute: un script de
 
 <br/>
 
-<img src="assets/sec-enfoque.svg" width="100%" alt="02. En qué me enfoco" />
+<img src="assets/sec-lenguajes.svg" width="100%" alt="02. Lenguajes y tecnologías" />
+
+<img src="assets/lenguajes.svg" width="100%" alt="Lenguajes que domino: Java (Spring Boot, Swing, JDBC), Python (LangChain, Streamlit, pytest), TypeScript (Node.js, Express, React), JavaScript (web, n8n, Web Workers) y SQL (MySQL, PostgreSQL)." />
+
+<img src="assets/tecnologias.svg" width="100%" alt="Frameworks: Spring Boot, Spring Security, JWT, Express, React, Streamlit. Automatización e IA: n8n, Telegram Bot API, LangChain, Gemini, Pydantic. Bases de datos: MySQL, PostgreSQL, Flyway, Google Sheets. Web: HTML5, CSS3, Node.js, Socket.IO. Calidad y entrega: JUnit 5, pytest, Docker, Postman, Swagger, Maven, Git, GitHub." />
+
+<sub>Cada lenguaje y tecnología está usado en al menos uno de los proyectos de abajo.</sub>
+
+<br/><br/>
+
+<img src="assets/sec-enfoque.svg" width="100%" alt="03. En qué me enfoco" />
 
 <img src="assets/enfoque.svg" width="100%" alt="Cómo abordo una automatización: entender el proceso, definir el disparador, programar la lógica, integrar y registrar." />
 
@@ -35,7 +45,7 @@ Intento dejar cada proyecto listo para que otra persona lo ejecute: un script de
 
 <br/>
 
-<img src="assets/sec-proyectos.svg" width="100%" alt="03. Proyectos destacados" />
+<img src="assets/sec-proyectos.svg" width="100%" alt="04. Proyectos destacados" />
 
 <div align="center">
 
@@ -45,7 +55,7 @@ Intento dejar cada proyecto listo para que otra persona lo ejecute: un script de
 <a href="https://github.com/CamiloGarcia079/Aduana-Copilot-CamiloGarcia-DanielOsorio"><img src="assets/card-aduana.svg" width="49%" alt="Aduana-Copilot: cotizador de importación de medicamentos con agente de IA. TypeScript, React, Python, FastAPI." /></a>
 <a href="https://github.com/CamiloGarcia079/Proyecto_DeliveryBot_GarciaCamilo"><img src="assets/card-deliverybot.svg" width="49%" alt="DeliveryBot: bot de pedidos en Telegram automatizado con n8n y Google Sheets." /></a>
 <a href="https://github.com/CamiloGarcia079/Hojas-de-vida-Chatbot---IA---Camilo-"><img src="assets/card-cv.svg" width="49%" alt="Analizador de CVs: evalúa un CV en PDF contra un puesto. Python, LangChain, Gemini, Streamlit." /></a>
-<a href="https://github.com/CamiloGarcia079/Tribuna-Global-Camilo-Garcia-A"><img src="assets/card-tribuna.svg" width="49%" alt="Tribuna Global: chatbot que clasifica opiniones por sentimiento. Python, LangChain, Gemini, Streamlit." /></a>
+<a href="https://github.com/santiagoosorio0708e-wq/Formula1-java"><img src="assets/card-f1.svg" width="49%" alt="Fórmula 1 en Java: simulador de carreras con un hilo por piloto, clima dinámico, combustible y pit stops. Java 21, Swing, SQLite. En pareja con Daniel Osorio." /></a>
 <a href="https://github.com/CamiloGarcia079/CAMILO-BANCO-EVALUACION"><img src="assets/card-banco.svg" width="49%" alt="Banco ACME: banca web en JavaScript sin frameworks, con Web Workers." /></a>
 
 </div>
@@ -56,18 +66,11 @@ Intento dejar cada proyecto listo para que otra persona lo ejecute: un script de
 |---|---|---|
 | [Plataforma SST y PESV](https://github.com/CamiloGarcia079/PROYECTO---EVALUACION-Camilo-Garc-a-) | Base de datos multiempresa para seguridad en el trabajo y seguridad vial, con vistas, funciones y triggers. | PostgreSQL |
 | [Gestor de tareas Scrum](https://github.com/CamiloGarcia079/Gestor-de-tareas-con-base-de-datos-Actividad) | Aplicación de escritorio para equipos, tareas y asignaciones, con acceso a datos por DAO. | Java Swing, JDBC, MySQL |
+| [Tribuna Global](https://github.com/CamiloGarcia079/Tribuna-Global-Camilo-Garcia-A) | Chatbot que clasifica por sentimiento opiniones sobre futbolistas, sin guardar datos inventados si algo falla. | Python, LangChain, Gemini |
 | [Campus Pizza](https://github.com/CamiloGarcia079/Evaluacion-Camilo-Garcia-3H-Campus-Pizza) | Modelo relacional de una pizzería con consultas de análisis de ventas. | MySQL |
 | [Portafolio](https://github.com/CamiloGarcia079/portafolio) | Sitio personal de una sola página. | HTML, CSS, JavaScript |
 
 <br/>
-
-<img src="assets/sec-stack.svg" width="100%" alt="04. Tecnologías" />
-
-<img src="assets/stack.svg" width="100%" alt="Backend: Java 21, Spring Boot, Spring Security con JWT, Node.js con Express, Python. Automatización e IA: n8n, Telegram Bot API, LangChain, Gemini, agentes con herramientas. Frontend: JavaScript, TypeScript, React, HTML, CSS. Datos: MySQL, PostgreSQL, Flyway, Google Sheets, JPA y JDBC. Calidad y entrega: JUnit 5, pytest, Docker, Postman, Swagger, Git y GitHub." />
-
-<sub>Cada tecnología de esta lista está usada en al menos uno de los proyectos de arriba.</sub>
-
-<br/><br/>
 
 <img src="assets/sec-experiencia.svg" width="100%" alt="05. Formación y experiencia" />
 
