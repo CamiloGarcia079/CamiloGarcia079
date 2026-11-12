@@ -8,7 +8,7 @@ import qrcode
 from xml.sax.saxutils import escape as esc
 
 OUT = sys.argv[1]
-BG0, BG1, INK, MUTED, GOLD, TEAL = '#0a0e16', '#121a28', '#e8edf4', '#8b97a8', '#e8b04b', '#5eead4'
+BG0, BG1, INK, MUTED, GOLD, TEAL = '#0b0f16', '#11171f', '#eef1f5', '#8e98a7', '#c9a04f', '#c9a04f'
 SANS = "-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
 MONO = "ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace"
 URL = 'https://camilogarcia079.github.io/portafolio/'
@@ -61,10 +61,9 @@ s = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox
 <rect x="20" y="20" width="{W - 40}" height="4" fill="url(#oro)"/>
 '''
 # Lado izquierdo: logo grande, nombre corto y rol
-s += '<g transform="translate(140 125) scale(2.5)">'
-for i, (d, c) in enumerate(TRAMOS):
-    s += f'<path d="{d}" fill="none" stroke="{c}" stroke-width="7" stroke-linecap="round" class="tr" style="animation-delay:{i * .3}s"/>'
-s += f'<circle cx="{NODO[0]}" cy="{NODO[1]}" r="5.2" fill="#16202f" stroke="{GOLD}" stroke-width="2.8" class="nd"/></g>'
+s += ('<g transform="translate(140 125) scale(2.5)">'
+      '<path d="M46.97 20.30 A19 19 0 1 0 46.97 43.70 L41.46 39.39 A12 12 0 1 1 41.46 24.61 Z" fill="#eef1f5"/>'
+      '<rect x="43" y="34" width="7" height="7" fill="#c9a04f"/></g>')
 s += f'''<text x="220" y="380" class="sans" font-size="15" font-weight="600" fill="{MUTED}" text-anchor="middle" letter-spacing="4">CAMILO GARCÍA</text>
 <rect x="138" y="400" width="164" height="32" rx="16" fill="{GOLD}" fill-opacity=".12" stroke="{GOLD}" stroke-opacity=".5"/>
 <text x="220" y="421" class="mono" font-size="13" fill="{GOLD}" text-anchor="middle">Junior Developer</text>
@@ -101,7 +100,6 @@ d = ''.join(f'M{qx + c * celda:.2f} {qy + r * celda:.2f}h{celda:.2f}v{celda:.2f}
 s += f'<path d="{d}" fill="#0a0e16"/>'
 s += f'<text x="{qx + tam / 2}" y="{qy + tam + 30}" class="mono" font-size="10.5" fill="{MUTED}" text-anchor="middle">escanea · portafolio</text>'
 
-s += f'<rect class="br" x="0" y="0" width="160" height="{H}" fill="url(#brillo)"/>'
 s += f'</g><rect x="20.5" y="20.5" width="{W - 41}" height="{H - 41}" rx="26" fill="none" stroke="#fff" stroke-opacity=".1"/></svg>'
 
 with open(os.path.join(OUT, 'tarjeta.svg'), 'w', encoding='utf-8') as f:

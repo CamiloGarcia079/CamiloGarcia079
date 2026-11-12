@@ -82,17 +82,38 @@ Dejo cada proyecto listo para que otra persona lo ejecute: **pruebas automatizad
 
 <img src="assets/sec-experiencia.svg" width="100%" alt="06. Formación y experiencia" />
 
-**Etapa productiva · Globant**
-Desde diciembre de 2026.
-
-**Técnico en Desarrollo de Software e Inteligencia Artificial · CampusLands**
-Bucaramanga · formación intensiva de un año, finalizada en 2026. Java y Spring Boot, Python, JavaScript y TypeScript, bases de datos MySQL y PostgreSQL, automatización con n8n e inteligencia artificial aplicada.
-
-**Hackathon presencial de IA "Visual Agents" · [GUARDIAN](https://github.com/andresguerra321/GUARDIAN)**
-Sistema predictivo de seguridad vial con visión por computadora (FiftyOne de Voxel51) y Gemini. Mi rol fue integración, contratos entre módulos y presentación: coordinar que las piezas del equipo funcionaran juntas, revisar el código antes de la entrega y presentar el resultado.
-
-**Reto Agente 2026 · Platica.mx con CampusLands · [Aduana-Copilot](https://github.com/CamiloGarcia079/Aduana-Copilot-CamiloGarcia-DanielOsorio)**
-Proyecto en pareja con Daniel Osorio. Me encargué del agente, el gateway y la interfaz.
+<table>
+  <tr>
+    <td width="96" align="center"><img src="assets/globant.jpg" width="64" height="64" alt="Globant" /></td>
+    <td>
+      <b>Etapa productiva · Globant</b><br/>
+      <sub>Desde diciembre de 2026</sub><br/>
+      Práctica profesional como desarrollador en una empresa global de tecnología.
+    </td>
+  </tr>
+  <tr>
+    <td width="96" align="center"><img src="assets/campuslands.png" width="64" height="64" alt="CampusLands" /></td>
+    <td>
+      <b>Técnico en Desarrollo de Software e Inteligencia Artificial · CampusLands</b><br/>
+      <sub>Bucaramanga · 2026 · formación intensiva de un año</sub><br/>
+      Java y Spring Boot, Python, JavaScript y TypeScript, bases de datos MySQL y PostgreSQL, automatización con n8n e inteligencia artificial aplicada.
+    </td>
+  </tr>
+  <tr>
+    <td width="96" align="center"><sub>RETO</sub><br/><b>2026</b></td>
+    <td>
+      <b>Reto Agente 2026 · Platica.mx con CampusLands · <a href="https://github.com/CamiloGarcia079/Aduana-Copilot-CamiloGarcia-DanielOsorio">Aduana-Copilot</a></b><br/>
+      Proyecto en pareja con Daniel Osorio. Me encargué del agente, el gateway y la interfaz.
+    </td>
+  </tr>
+  <tr>
+    <td width="96" align="center"><sub>HACKATHON</sub><br/><b>IA</b></td>
+    <td>
+      <b>Hackathon presencial “Visual Agents” · <a href="https://github.com/andresguerra321/GUARDIAN">GUARDIAN</a></b><br/>
+      Sistema predictivo de seguridad vial con visión por computadora (FiftyOne de Voxel51) y Gemini. Mi rol fue integración, contratos entre módulos y presentación: coordinar que las piezas del equipo funcionaran juntas, revisar el código antes de la entrega y presentar el resultado.
+    </td>
+  </tr>
+</table>
 
 <br/>
 
