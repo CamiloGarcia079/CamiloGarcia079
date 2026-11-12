@@ -15,21 +15,13 @@
 
 <img src="assets/sec-perfil.svg" width="100%" alt="01. Sobre mí" />
 
+<a href="https://camilogarcia079.github.io/portafolio/"><img src="assets/tarjeta.svg" width="100%" alt="Tarjeta de presentación: Camilo Andrés García Almeida, Técnico en Desarrollo de Software e Inteligencia Artificial, Junior Developer. Formación: CampusLands, 2026. Próximo paso: etapa productiva en Globant, diciembre de 2026. Enfoque: automatización, bots y aplicaciones web. Stack: Java, Spring Boot, Python, TypeScript. Idiomas: español nativo, inglés A2. Bucaramanga, Colombia. Correo kaliko2411@gmail.com. Código QR al portafolio." /></a>
+
 Soy **Técnico en Desarrollo de Software e Inteligencia Artificial**, formado durante un año intensivo en **CampusLands** (Bucaramanga). En **diciembre de 2026 empiezo mi etapa productiva en Globant**.
 
-En palabras simples: **creo programas que hacen solos el trabajo repetitivo**. Asistentes que atienden clientes por chat, sistemas que conectan herramientas entre sí y aplicaciones web seguras. Para construirlos uso **Java y Spring Boot**, **Python** y **TypeScript**, y bases de datos bien organizadas.
+En palabras simples: **creo programas que hacen solos el trabajo repetitivo**. En lo técnico, eso es construir **APIs REST con Java 21 y Spring Boot**, protegidas con **Spring Security y JWT** y organizadas con **arquitectura hexagonal**; **flujos de automatización en n8n** que reciben eventos por webhook desde Telegram y guardan en Google Sheets; **agentes de IA en TypeScript** que usan *tool calling* para consultar datos reales en lugar de inventarlos; y cadenas con **LangChain en Python** cuya respuesta se valida con Pydantic. Trabajo con **MySQL y PostgreSQL** (migraciones versionadas con Flyway) y comunicación en tiempo real con **WebSockets**.
 
-Intento dejar cada proyecto listo para que otra persona lo entienda y lo ponga a funcionar sin ayuda: instrucciones claras, pruebas automáticas y las decisiones explicadas.
-
-| En 30 segundos | |
-|---|---|
-| **Título** | Técnico en Desarrollo de Software e Inteligencia Artificial (CampusLands, 2026) |
-| **Próximo paso** | Etapa productiva en Globant, desde diciembre de 2026 |
-| **Rol** | Junior Developer |
-| **Enfoque** | Automatización de procesos, bots y asistentes con IA, aplicaciones web |
-| **Idiomas** | Español nativo · Inglés A2 |
-| **Ubicación** | Bucaramanga, Colombia |
-| **Portafolio** | [camilogarcia079.github.io/portafolio](https://camilogarcia079.github.io/portafolio/) (también en inglés) |
+Dejo cada proyecto listo para que otra persona lo ejecute: **pruebas automatizadas** con JUnit 5 y pytest (más de 850 entre mis repositorios), **contenedores con Docker**, la API documentada con **Swagger** y las decisiones técnicas escritas.
 
 <br/>
 
