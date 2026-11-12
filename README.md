@@ -1,68 +1,98 @@
-<h1 align="center">¡Hola! 👋 Soy Camilo Andrés García Almeida</h1>
-<h3 align="center">Desarrollador de Software Junior · Colombia 🇨🇴/</h3>
-<h3 align="center">https://camilogarcia079.github.io/portafolio/</h3>
+<div align="center">
 
-<p align="center">
-  Estudiante de Desarrollo de Software en Campuslands. Me gusta construir cosas que
-  <b>funcionen de verdad</b>: desde bots de automatización y bases de datos hasta
-  aplicaciones web completas. Siempre estoy aprendiendo algo nuevo.
-</p>
+<img src="assets/banner.svg" width="100%" alt="Camilo Andrés García Almeida. Técnico en Desarrollo de Software e Inteligencia Artificial. Junior Developer enfocado en automatizaciones, bots y desarrollo web. Próxima etapa productiva en Globant, diciembre de 2026." />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/camilo-garcia-7570693b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kaliko2411@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<br/><br/>
 
----
+<a href="https://www.linkedin.com/in/camilo-garcia-7570693b7/"><img src="assets/btn-linkedin.svg" height="50" alt="LinkedIn" /></a>
+<a href="mailto:kaliko2411@gmail.com"><img src="assets/btn-correo.svg" height="50" alt="Correo" /></a>
+<a href="https://camilogarcia079.github.io/portafolio/"><img src="assets/btn-portafolio.svg" height="50" alt="Portafolio" /></a>
+<a href="https://github.com/CamiloGarcia079/hoja-de-vida-profesional/blob/main/HojaDeVida_Profesional_CamiloGarcia.pdf"><img src="assets/btn-cv.svg" height="50" alt="Hoja de vida en PDF" /></a>
 
-### 🛠️ Tecnologías y herramientas
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+<br/>
 
----
+<img src="assets/sec-perfil.svg" width="100%" alt="01. Sobre mí" />
 
-### 🚀 Proyectos destacados
+Soy **Técnico en Desarrollo de Software e Inteligencia Artificial**, formado durante un año en **CampusLands** (Bucaramanga). En **diciembre de 2026 empiezo mi etapa productiva en Globant**.
 
-| Proyecto | De qué se trata | Tecnologías |
-|----------|-----------------|-------------|
-| 🏦 [**Banco ACME**](https://github.com/CamiloGarcia079/CAMILO-BANCO-EVALUACION) | Plataforma de banca web completa: transferencias, retiros, pagos, metas de ahorro y certificados, todo en JS puro. | JavaScript · Web Workers · localStorage |
-| 🤖 [**DeliveryBot**](https://github.com/CamiloGarcia079/Proyecto_DeliveryBot_GarciaCamilo) | Bot de Telegram para pedidos de cafetería con backend en tiempo real. | n8n · Telegram API · Google Sheets |
-| 🍕 [**Campus Pizza**](https://github.com/CamiloGarcia079/Evaluacion-Camilo-Garcia-3H-Campus-Pizza) | Base de datos relacional para una pizzería con 20 consultas de análisis. | MySQL · SQL |
-| 💰 [**Plan de Ahorro**](https://github.com/CamiloGarcia079/Plan-de-ahorro-Camilo-) | App web para llevar el control de un plan de ahorro. | HTML · CSS · JavaScript |
+Me interesa sobre todo **automatizar**: bots que atienden a un cliente, flujos que conectan sistemas entre sí y agentes de IA que usan herramientas en lugar de inventar respuestas. Para construirlos me apoyo en backend con **Java y Spring Boot**, **Python** y **TypeScript**, y en bases de datos relacionales bien diseñadas.
 
----
+Intento dejar cada proyecto listo para que otra persona lo ejecute: un script de arranque, pruebas automáticas y las decisiones técnicas escritas.
 
-### 🏆 Hackathon Visual Agents — GUARDIAN
+<br/>
 
-Participé en el **Hackathon presencial de IA "Visual Agents"**, donde con mi equipo construimos **GUARDIAN**, un sistema predictivo de seguridad vial con visión por computadora (FiftyOne/Voxel51) e IA (Gemini). Asumí el rol de **Integración, Contratos y Presentación**: coordiné que los módulos del equipo funcionaran juntos, hice la revisión de código que corrigió errores críticos antes de la entrega y lideré la presentación final.
+<img src="assets/sec-enfoque.svg" width="100%" alt="02. En qué me enfoco" />
 
-<!-- 👉 Camilo: cuando tengas el link del repo del equipo, pégalo aquí:
-🔗 Repositorio del equipo: https://github.com/USUARIO-DEL-EQUIPO/GUARDIAN
--->
+<img src="assets/enfoque.svg" width="100%" alt="Cómo abordo una automatización: entender el proceso, definir el disparador, programar la lógica, integrar y registrar." />
 
----
+| Línea | Dónde se ve |
+|---|---|
+| **Automatización de procesos** | [DeliveryBot](https://github.com/CamiloGarcia079/Proyecto_DeliveryBot_GarciaCamilo): flujo de 39 nodos en n8n que toma pedidos por Telegram y los registra en Google Sheets. |
+| **Bots y agentes de IA** | [VitalRoute](https://github.com/santiagoosorio0708e-wq/Vital-Route) y [Aduana-Copilot](https://github.com/CamiloGarcia079/Aduana-Copilot-CamiloGarcia-DanielOsorio): agentes que llaman herramientas y dejan los cálculos al código. [Analizador de CVs](https://github.com/CamiloGarcia079/Hojas-de-vida-Chatbot---IA---Camilo-) con LangChain y Gemini. |
+| **Desarrollo web** | APIs REST con Spring Boot y Express, y frontends en React y JavaScript: [Renta de Herramientas](https://github.com/CamiloGarcia079/Evaluacion-Springboot-Herramientas---Camilo-Garcia-Almeida), [Banco ACME](https://github.com/CamiloGarcia079/CAMILO-BANCO-EVALUACION), [portafolio](https://github.com/CamiloGarcia079/portafolio). |
 
-### 📊 Mis estadísticas en GitHub
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamiloGarcia079&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloGarcia079&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" height="165"/>
-</p>
+<img src="assets/sec-proyectos.svg" width="100%" alt="03. Proyectos destacados" />
 
----
+<div align="center">
 
-<p align="center"><i>Siempre abierto a aprender, colaborar y construir cosas nuevas. 🚀</i></p>
+<a href="https://github.com/santiagoosorio0708e-wq/Vital-Route"><img src="assets/card-vitalroute.svg" width="49%" alt="VitalRoute: triaje de emergencias y despacho en tiempo real. TypeScript, Node.js, React, MySQL. En pareja; mi parte fue la API, los WebSockets, el panel y el agente." /></a>
+<a href="https://github.com/CamiloGarcia079/trabajo-bound-context-con-spring-security"><img src="assets/card-mindconnect.svg" width="49%" alt="MindConnect API: backend de salud mental con arquitectura hexagonal, 52 tablas, más de 600 pruebas y JWT. Java, Spring Boot, PostgreSQL, Flyway." /></a>
+<a href="https://github.com/CamiloGarcia079/Evaluacion-Springboot-Herramientas---Camilo-Garcia-Almeida"><img src="assets/card-renta.svg" width="49%" alt="Renta de Herramientas: reservas, pagos con IVA, devoluciones y daños. 113 pruebas. Java, Spring Boot, MySQL, JWT." /></a>
+<a href="https://github.com/CamiloGarcia079/Aduana-Copilot-CamiloGarcia-DanielOsorio"><img src="assets/card-aduana.svg" width="49%" alt="Aduana-Copilot: cotizador de importación de medicamentos con agente de IA. TypeScript, React, Python, FastAPI." /></a>
+<a href="https://github.com/CamiloGarcia079/Proyecto_DeliveryBot_GarciaCamilo"><img src="assets/card-deliverybot.svg" width="49%" alt="DeliveryBot: bot de pedidos en Telegram automatizado con n8n y Google Sheets." /></a>
+<a href="https://github.com/CamiloGarcia079/Hojas-de-vida-Chatbot---IA---Camilo-"><img src="assets/card-cv.svg" width="49%" alt="Analizador de CVs: evalúa un CV en PDF contra un puesto. Python, LangChain, Gemini, Streamlit." /></a>
+<a href="https://github.com/CamiloGarcia079/Tribuna-Global-Camilo-Garcia-A"><img src="assets/card-tribuna.svg" width="49%" alt="Tribuna Global: chatbot que clasifica opiniones por sentimiento. Python, LangChain, Gemini, Streamlit." /></a>
+<a href="https://github.com/CamiloGarcia079/CAMILO-BANCO-EVALUACION"><img src="assets/card-banco.svg" width="49%" alt="Banco ACME: banca web en JavaScript sin frameworks, con Web Workers." /></a>
+
+</div>
+
+**Otros proyectos**
+
+| Proyecto | Qué es | Tecnologías |
+|---|---|---|
+| [Plataforma SST y PESV](https://github.com/CamiloGarcia079/PROYECTO---EVALUACION-Camilo-Garc-a-) | Base de datos multiempresa para seguridad en el trabajo y seguridad vial, con vistas, funciones y triggers. | PostgreSQL |
+| [Gestor de tareas Scrum](https://github.com/CamiloGarcia079/Gestor-de-tareas-con-base-de-datos-Actividad) | Aplicación de escritorio para equipos, tareas y asignaciones, con acceso a datos por DAO. | Java Swing, JDBC, MySQL |
+| [Campus Pizza](https://github.com/CamiloGarcia079/Evaluacion-Camilo-Garcia-3H-Campus-Pizza) | Modelo relacional de una pizzería con consultas de análisis de ventas. | MySQL |
+| [Portafolio](https://github.com/CamiloGarcia079/portafolio) | Sitio personal de una sola página. | HTML, CSS, JavaScript |
+
+<br/>
+
+<img src="assets/sec-stack.svg" width="100%" alt="04. Tecnologías" />
+
+<img src="assets/stack.svg" width="100%" alt="Backend: Java 21, Spring Boot, Spring Security con JWT, Node.js con Express, Python. Automatización e IA: n8n, Telegram Bot API, LangChain, Gemini, agentes con herramientas. Frontend: JavaScript, TypeScript, React, HTML, CSS. Datos: MySQL, PostgreSQL, Flyway, Google Sheets, JPA y JDBC. Calidad y entrega: JUnit 5, pytest, Docker, Postman, Swagger, Git y GitHub." />
+
+<sub>Cada tecnología de esta lista está usada en al menos uno de los proyectos de arriba.</sub>
+
+<br/><br/>
+
+<img src="assets/sec-experiencia.svg" width="100%" alt="05. Formación y experiencia" />
+
+**Etapa productiva · Globant**
+Desde diciembre de 2026.
+
+**Técnico en Desarrollo de Software e Inteligencia Artificial · CampusLands**
+Bucaramanga · formación intensiva de un año, finalizada en 2026. Java y Spring Boot, Python, JavaScript y TypeScript, bases de datos MySQL y PostgreSQL, automatización con n8n e inteligencia artificial aplicada.
+
+**Hackathon presencial de IA "Visual Agents" · [GUARDIAN](https://github.com/andresguerra321/GUARDIAN)**
+Sistema predictivo de seguridad vial con visión por computadora (FiftyOne de Voxel51) y Gemini. Mi rol fue integración, contratos entre módulos y presentación: coordinar que las piezas del equipo funcionaran juntas, revisar el código antes de la entrega y presentar el resultado.
+
+**Reto Agente 2026 · Platica.mx con CampusLands · [Aduana-Copilot](https://github.com/CamiloGarcia079/Aduana-Copilot-CamiloGarcia-DanielOsorio)**
+Proyecto en pareja con Daniel Osorio. Me encargué del agente, el gateway y la interfaz.
+
+<br/>
+
+<img src="assets/sec-contacto.svg" width="100%" alt="06. Contacto" />
+
+**Bucaramanga, Santander, Colombia**<br/>
+**Correo:** [kaliko2411@gmail.com](mailto:kaliko2411@gmail.com)<br/>
+**LinkedIn:** [linkedin.com/in/camilo-garcia-7570693b7](https://www.linkedin.com/in/camilo-garcia-7570693b7/)<br/>
+**Portafolio:** [camilogarcia079.github.io/portafolio](https://camilogarcia079.github.io/portafolio/)<br/>
+**Hoja de vida:** [PDF en español e inglés](https://github.com/CamiloGarcia079/hoja-de-vida-profesional/blob/main/HojaDeVida_Profesional_CamiloGarcia.pdf)
+
+<br/>
+
+<img src="assets/footer.svg" width="100%" alt="Si un proceso se repite, se puede automatizar. Camilo García, Junior Developer, Bucaramanga, Colombia." />
