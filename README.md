@@ -15,25 +15,41 @@
 
 <img src="assets/sec-perfil.svg" width="100%" alt="01. Sobre mí" />
 
-Soy **Técnico en Desarrollo de Software e Inteligencia Artificial**, formado durante un año en **CampusLands** (Bucaramanga). En **diciembre de 2026 empiezo mi etapa productiva en Globant**.
+Soy **Técnico en Desarrollo de Software e Inteligencia Artificial**, formado durante un año intensivo en **CampusLands** (Bucaramanga). En **diciembre de 2026 empiezo mi etapa productiva en Globant**.
 
-Me interesa sobre todo **automatizar**: bots que atienden a un cliente, flujos que conectan sistemas entre sí y agentes de IA que usan herramientas en lugar de inventar respuestas. Para construirlos me apoyo en backend con **Java y Spring Boot**, **Python** y **TypeScript**, y en bases de datos relacionales bien diseñadas.
+En palabras simples: **creo programas que hacen solos el trabajo repetitivo**. Asistentes que atienden clientes por chat, sistemas que conectan herramientas entre sí y aplicaciones web seguras. Para construirlos uso **Java y Spring Boot**, **Python** y **TypeScript**, y bases de datos bien organizadas.
 
-Intento dejar cada proyecto listo para que otra persona lo ejecute: un script de arranque, pruebas automáticas y las decisiones técnicas escritas.
+Intento dejar cada proyecto listo para que otra persona lo entienda y lo ponga a funcionar sin ayuda: instrucciones claras, pruebas automáticas y las decisiones explicadas.
+
+| En 30 segundos | |
+|---|---|
+| **Título** | Técnico en Desarrollo de Software e Inteligencia Artificial (CampusLands, 2026) |
+| **Próximo paso** | Etapa productiva en Globant, desde diciembre de 2026 |
+| **Rol** | Junior Developer |
+| **Enfoque** | Automatización de procesos, bots y asistentes con IA, aplicaciones web |
+| **Idiomas** | Español nativo · Inglés A2 |
+| **Ubicación** | Bucaramanga, Colombia |
+| **Portafolio** | [camilogarcia079.github.io/portafolio](https://camilogarcia079.github.io/portafolio/) (también en inglés) |
 
 <br/>
 
-<img src="assets/sec-lenguajes.svg" width="100%" alt="02. Lenguajes y tecnologías" />
+<img src="assets/sec-habilidades.svg" width="100%" alt="02. Habilidades" />
+
+<img src="assets/habilidades.svg" width="100%" alt="Habilidades blandas con ejemplos reales: liderazgo y coordinación, comunicación clara, trabajo en equipo, aprendizaje rápido, resolución de problemas, responsabilidad y calidad." />
+
+<br/>
+
+<img src="assets/sec-lenguajes.svg" width="100%" alt="03. Lenguajes y tecnologías" />
 
 <img src="assets/lenguajes.svg" width="100%" alt="Lenguajes que domino: Java (Spring Boot, Swing, JDBC), Python (LangChain, Streamlit, pytest), TypeScript (Node.js, Express, React), JavaScript (web, n8n, Web Workers) y SQL (MySQL, PostgreSQL)." />
 
 <img src="assets/tecnologias.svg" width="100%" alt="Frameworks: Spring Boot, Spring Security, JWT, Express, React, Streamlit. Automatización e IA: n8n, Telegram Bot API, LangChain, Gemini, Pydantic. Bases de datos: MySQL, PostgreSQL, Flyway, Google Sheets. Web: HTML5, CSS3, Node.js, Socket.IO. Calidad y entrega: JUnit 5, pytest, Docker, Postman, Swagger, Maven, Git, GitHub." />
 
-<sub>Cada lenguaje y tecnología está usado en al menos uno de los proyectos de abajo.</sub>
+<sub>Los lenguajes son las instrucciones que le doy a la computadora; las demás son herramientas para construir más rápido, guardar datos y comprobar que todo funciona. Cada una está usada en al menos un proyecto de abajo.</sub>
 
 <br/><br/>
 
-<img src="assets/sec-enfoque.svg" width="100%" alt="03. En qué me enfoco" />
+<img src="assets/sec-enfoque.svg" width="100%" alt="04. En qué me enfoco" />
 
 <img src="assets/enfoque.svg" width="100%" alt="Cómo abordo una automatización: entender el proceso, definir el disparador, programar la lógica, integrar y registrar." />
 
@@ -45,7 +61,7 @@ Intento dejar cada proyecto listo para que otra persona lo ejecute: un script de
 
 <br/>
 
-<img src="assets/sec-proyectos.svg" width="100%" alt="04. Proyectos destacados" />
+<img src="assets/sec-proyectos.svg" width="100%" alt="05. Proyectos destacados" />
 
 <div align="center">
 
@@ -72,7 +88,7 @@ Intento dejar cada proyecto listo para que otra persona lo ejecute: un script de
 
 <br/>
 
-<img src="assets/sec-experiencia.svg" width="100%" alt="05. Formación y experiencia" />
+<img src="assets/sec-experiencia.svg" width="100%" alt="06. Formación y experiencia" />
 
 **Etapa productiva · Globant**
 Desde diciembre de 2026.
@@ -88,12 +104,12 @@ Proyecto en pareja con Daniel Osorio. Me encargué del agente, el gateway y la i
 
 <br/>
 
-<img src="assets/sec-contacto.svg" width="100%" alt="06. Contacto" />
+<img src="assets/sec-contacto.svg" width="100%" alt="07. Contacto" />
 
 **Bucaramanga, Santander, Colombia**<br/>
 **Correo:** [kaliko2411@gmail.com](mailto:kaliko2411@gmail.com)<br/>
 **LinkedIn:** [linkedin.com/in/camilo-garcia-7570693b7](https://www.linkedin.com/in/camilo-garcia-7570693b7/)<br/>
-**Portafolio:** [camilogarcia079.github.io/portafolio](https://camilogarcia079.github.io/portafolio/)<br/>
+**Portafolio:** [camilogarcia079.github.io/portafolio](https://camilogarcia079.github.io/portafolio/) (tiene un formulario para escribirme directamente)<br/>
 **Hoja de vida:** [PDF en español e inglés](https://github.com/CamiloGarcia079/hoja-de-vida-profesional/blob/main/HojaDeVida_Profesional_CamiloGarcia.pdf)
 
 <br/>

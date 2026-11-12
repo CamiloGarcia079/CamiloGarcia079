@@ -314,11 +314,12 @@ def footer():
 
 banner()
 section("sec-perfil.svg", "01", "Sobre mí", "perfil")
-section("sec-lenguajes.svg", "02", "Lenguajes y tecnologías", "lo que domino")
-section("sec-enfoque.svg", "03", "En qué me enfoco", "automatización")
-section("sec-proyectos.svg", "04", "Proyectos destacados", "código real")
-section("sec-experiencia.svg", "05", "Formación y experiencia", "trayectoria")
-section("sec-contacto.svg", "06", "Contacto", "hablemos")
+section("sec-habilidades.svg", "02", "Habilidades", "lo que aporto a un equipo")
+section("sec-lenguajes.svg", "03", "Lenguajes y tecnologías", "lo que domino")
+section("sec-enfoque.svg", "04", "En qué me enfoco", "automatización")
+section("sec-proyectos.svg", "05", "Proyectos destacados", "código real")
+section("sec-experiencia.svg", "06", "Formación y experiencia", "trayectoria")
+section("sec-contacto.svg", "07", "Contacto", "hablemos")
 enfoque()
 footer()
 
