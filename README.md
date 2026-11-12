@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/camilo-garcia-7570693b7/"><img src="assets/btn-linkedin.svg" height="50" alt="LinkedIn" /></a>
 <a href="mailto:kaliko2411@gmail.com"><img src="assets/btn-correo.svg" height="50" alt="Correo" /></a>
 <a href="https://camilogarcia079.github.io/portafolio/"><img src="assets/btn-portafolio.svg" height="50" alt="Portafolio" /></a>
-<a href="https://github.com/CamiloGarcia079/hoja-de-vida-profesional/blob/main/HojaDeVida_Profesional_CamiloGarcia.pdf"><img src="assets/btn-cv.svg" height="50" alt="Hoja de vida en PDF" /></a>
+<a href="https://github.com/CamiloGarcia079/hoja-de-vida-profesional/blob/main/HojaDeVida_Campus_ES_CamiloGarcia.pdf"><img src="assets/btn-cv.svg" height="50" alt="Hoja de vida en PDF" /></a>
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <a href="https://camilogarcia079.github.io/portafolio/"><img src="assets/tarjeta.svg" width="100%" alt="Tarjeta de presentación: Camilo Andrés García Almeida, Técnico en Desarrollo de Software e Inteligencia Artificial, Junior Developer. Formación: CampusLands, 2026. Próximo paso: etapa productiva en Globant, diciembre de 2026. Enfoque: automatización, bots y aplicaciones web. Stack: Java, Spring Boot, Python, TypeScript. Idiomas: español nativo, inglés A2. Bucaramanga, Colombia. Correo kaliko2411@gmail.com. Código QR al portafolio." /></a>
 
-Soy **Técnico en Desarrollo de Software e Inteligencia Artificial**, formado durante un año intensivo en **CampusLands** (Bucaramanga). En **diciembre de 2026 empiezo mi etapa productiva en Globant**.
+Soy **Técnico en Desarrollo de Software e Inteligencia Artificial**, formado durante un año intensivo en **CampusLands** (Floridablanca). En **diciembre de 2026 empiezo mi etapa productiva en Globant**.
 
 En palabras simples: **creo programas que hacen solos el trabajo repetitivo**. En lo técnico, eso es construir **APIs REST con Java 21 y Spring Boot**, protegidas con **Spring Security y JWT** y organizadas con **arquitectura hexagonal**; **flujos de automatización en n8n** que reciben eventos por webhook desde Telegram y guardan en Google Sheets; **agentes de IA en TypeScript** que usan *tool calling* para consultar datos reales en lugar de inventarlos; y cadenas con **LangChain en Python** cuya respuesta se valida con Pydantic. Trabajo con **MySQL y PostgreSQL** (migraciones versionadas con Flyway) y comunicación en tiempo real con **WebSockets**.
 
@@ -101,7 +101,7 @@ Dejo cada proyecto listo para que otra persona lo ejecute: **pruebas automatizad
     <td width="96" align="center"><img src="assets/campuslands.png" width="64" height="64" alt="CampusLands" /></td>
     <td>
       <b>Técnico en Desarrollo de Software e Inteligencia Artificial · CampusLands</b><br/>
-      <sub>Bucaramanga · 2026 · formación intensiva de un año</sub><br/>
+      <sub>Floridablanca · dic 2025 – nov 2026 · formación intensiva de un año</sub><br/>
       Java y Spring Boot, Python, JavaScript y TypeScript, bases de datos MySQL y PostgreSQL, automatización con n8n e inteligencia artificial aplicada.
     </td>
   </tr>
@@ -129,7 +129,7 @@ Dejo cada proyecto listo para que otra persona lo ejecute: **pruebas automatizad
 **Correo:** [kaliko2411@gmail.com](mailto:kaliko2411@gmail.com)<br/>
 **LinkedIn:** [linkedin.com/in/camilo-garcia-7570693b7](https://www.linkedin.com/in/camilo-garcia-7570693b7/)<br/>
 **Portafolio:** [camilogarcia079.github.io/portafolio](https://camilogarcia079.github.io/portafolio/) (tiene un formulario para escribirme directamente)<br/>
-**Hoja de vida:** [PDF en español e inglés](https://github.com/CamiloGarcia079/hoja-de-vida-profesional/blob/main/HojaDeVida_Profesional_CamiloGarcia.pdf)
+**Hoja de vida:** [español](https://github.com/CamiloGarcia079/hoja-de-vida-profesional/blob/main/HojaDeVida_Campus_ES_CamiloGarcia.pdf) · [inglés](https://github.com/CamiloGarcia079/hoja-de-vida-profesional/blob/main/HojaDeVida_Campus_EN_CamiloGarcia.pdf) · versión ATS en [español](https://github.com/CamiloGarcia079/hoja-de-vida-profesional/blob/main/HojaDeVida_ATS_ES_CamiloGarcia.pdf) y [inglés](https://github.com/CamiloGarcia079/hoja-de-vida-profesional/blob/main/HojaDeVida_ATS_EN_CamiloGarcia.pdf)
 
 <br/>
 
