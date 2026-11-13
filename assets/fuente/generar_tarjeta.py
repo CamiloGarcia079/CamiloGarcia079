@@ -22,7 +22,7 @@ NODO = (45.79, 20.43)
 DATOS = [('FORMACIÓN', 'CampusLands · un año intensivo · 2026'), ('PRÓXIMO PASO', 'Etapa productiva · Globant · dic 2026'),
          ('ENFOQUE', 'Automatización, bots y aplicaciones web'), ('STACK', 'Java · Spring Boot · Python · TypeScript'),
          ('IDIOMAS', 'Español nativo · Inglés A2 · Portugués A1'), ('UBICACIÓN', 'Bucaramanga, Colombia')]
-CONTACTO = [('correo', 'kaliko2411@gmail.com'), ('linkedin', 'in/camilo-garcia-7570693b7'),
+CONTACTO = [('correo', 'kaliko2411@gmail.com'), ('linkedin', 'in/camilo-andrés-garcía-almeida-7570693b7'),
             ('web', 'camilogarcia079.github.io/portafolio')]
 ICONOS = {  # trazos de 24x24
     'correo': 'M3 6h18v12H3zM3 7l9 6 9-6',
