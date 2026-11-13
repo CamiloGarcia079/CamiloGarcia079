@@ -5,7 +5,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/camilo-garcia-7570693b7/"><img src="assets/btn-linkedin.svg" height="50" alt="LinkedIn" /></a>
-<a href="mailto:kaliko2411@gmail.com"><img src="assets/btn-correo.svg" height="50" alt="Correo" /></a>
+<a href="https://camilogarcia079.github.io/portafolio/#contacto"><img src="assets/btn-correo.svg" height="50" alt="Escríbeme por correo" /></a>
 <a href="https://camilogarcia079.github.io/portafolio/"><img src="assets/btn-portafolio.svg" height="50" alt="Portafolio" /></a>
 <a href="https://camilogarcia079.github.io/portafolio/cv/HojaDeVida_ATS_CamiloGarcia.pdf"><img src="assets/btn-cv.svg" height="50" alt="Hoja de vida en PDF" /></a>
 
@@ -124,7 +124,7 @@ Dejo cada proyecto listo para que otra persona lo ejecute: **pruebas automatizad
 <img src="assets/sec-contacto.svg" width="100%" alt="07. Contacto" />
 
 **Bucaramanga, Santander, Colombia**<br/>
-**Correo:** [kaliko2411@gmail.com](mailto:kaliko2411@gmail.com)<br/>
+**Correo:** kaliko2411@gmail.com · [escríbeme desde Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=kaliko2411@gmail.com&su=Contacto%20desde%20GitHub) · [o desde el formulario de mi portafolio](https://camilogarcia079.github.io/portafolio/#contacto)<br/>
 **LinkedIn:** [linkedin.com/in/camilo-garcia-7570693b7](https://www.linkedin.com/in/camilo-garcia-7570693b7/)<br/>
 **Portafolio:** [camilogarcia079.github.io/portafolio](https://camilogarcia079.github.io/portafolio/) (tiene un formulario para escribirme directamente)<br/>
 **Hoja de vida:** [descargar en PDF](https://camilogarcia079.github.io/portafolio/cv/HojaDeVida_ATS_CamiloGarcia.pdf)

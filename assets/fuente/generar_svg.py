@@ -356,7 +356,7 @@ card("card-f1.svg", "JAVA · CONCURRENCIA", "Fórmula 1 en Java",
      "un hilo por piloto · CyclicBarrier por vuelta · SQLite", ["Java 21", "Swing", "Threads", "SQLite"], GOLD,
      "En pareja con Daniel Osorio.")
 button("btn-linkedin.svg", "LinkedIn", "perfil profesional", TEAL)
-button("btn-correo.svg", "Correo", "escríbeme", GOLD)
+button("btn-correo.svg", "Escríbeme", "correo · formulario", GOLD)
 button("btn-portafolio.svg", "Portafolio", "sitio web", TEAL)
-button("btn-cv.svg", "Hoja de vida", "PDF · español e inglés", GOLD)
+button("btn-cv.svg", "Hoja de vida", "PDF · formato ATS", GOLD)
 print("ok")
